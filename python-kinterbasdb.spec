@@ -5,7 +5,7 @@ Version:	3.3.0
 Release:	1
 License:	GPL v2+
 Group:		Libraries/Python
-Source0:	http://dl.sourceforge.net/firebird/%{realname}-%{version}.tar.bz2
+Source0:	http://downloads.sourceforge.net/firebird/%{realname}-%{version}.tar.bz2
 # Source0-md5:	0296d2dbc7b76dac140b5fec2ad59f0e
 URL:		http://www.firebirdsql.org/index.php?op=devel&sub=python
 BuildRequires:	Firebird-devel
